@@ -17,3 +17,8 @@ pip install opencv-python
 pip install cvzone
 pip install numpy
 pip install ultralytics
+```
+
+## video
+https://github.com/ahmedhassan456/traffic_counting_and_tracking_computer_vision/assets/113265039/20aa20e2-96a4-4cae-91da-9a6413db7324
+
